@@ -1,2 +1,2 @@
-# javascriptBeginner
+My Journey in learning tech.
 
