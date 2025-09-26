@@ -1,0 +1,42 @@
+.page-name {
+    font-family: Times New Roman;
+    font-size: 55px;
+    color: orangered;
+    font-style: italic;
+    width: 450px;
+
+}
+
+.p1 {
+    font-size: 30px;
+    color: black;
+    width: 450px;
+
+}
+
+.p2 {
+    text-align: left;
+    width: 450px;
+    font-size: 20px;
+}
+
+body {
+    background-color: white;
+}
+
+
+.image img {
+    width: 20px;
+    height: 20px;
+    
+}
+
+.image2 {
+    
+}
+
+.slogan {
+    font-family: courier;
+    font-style: oblique;
+    color: black;
+}
