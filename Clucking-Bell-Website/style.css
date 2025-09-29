@@ -26,13 +26,14 @@ body {
 
 
 .image img {
-    width: 20px;
-    height: 20px;
-    
+    width: 300px;
+    height: 250px;
+    margin-bottom: 10px;
 }
 
-.image2 {
-    
+.image2 img {
+    width: 300px;
+    height:250px;
 }
 
 .slogan {
